@@ -199,5 +199,190 @@
             "cantidadVendida": 5,
             "precioUnitario": 25
         }
+    },
+    {
+        "fechaVenta": "2025-05-10 10:08:08",
+        "paciente": {
+            "nombre": "manuel",
+            "direccion": "calle23"
+        },
+        "empleado": {
+            "nombre": "andres",
+            "cargo": "ventas"
+        },
+        "medicamentosVendidos": {
+            "nombreMedicamento": "Paracetamol",
+            "cantidadVendida": 70,
+            "precioUnitario": 20
+        }
+    },
+    {
+        "fechaVenta": "2025-05-10 10:39:53",
+        "paciente": {
+            "nombre": "manuel",
+            "direccion": "calle23"
+        },
+        "empleado": {
+            "nombre": "andres",
+            "cargo": "ventas"
+        },
+        "medicamentosVendidos": {
+            "nombreMedicamento": "Ibuprofeno",
+            "cantidadVendida": 5,
+            "precioUnitario": 25
+        }
+    },
+    {
+        "fechaVenta": "2025-05-10 10:43:03",
+        "paciente": {
+            "nombre": "manuel",
+            "direccion": "calle23"
+        },
+        "empleado": {
+            "nombre": "andres",
+            "cargo": "ventas"
+        },
+        "medicamentosVendidos": {
+            "nombreMedicamento": "Ibuprofeno",
+            "cantidadVendida": 5,
+            "precioUnitario": 25,
+            "total": 125
+        }
+    },
+    {
+        "fechaVenta": "2025-05-10 10:46:25",
+        "paciente": {
+            "nombre": "manuel",
+            "direccion": "calle23"
+        },
+        "empleado": {
+            "nombre": "andres",
+            "cargo": "ventas"
+        },
+        "medicamentosVendidos": {
+            "nombreMedicamento": "Aspirina",
+            "cantidadVendida": 5,
+            "precioUnitario": 15,
+            "total": 75
+        }
+    },
+    {
+        "fechaVenta": "2025-05-10 10:55:41",
+        "paciente": {
+            "nombre": "manuel",
+            "direccion": "calle23"
+        },
+        "empleado": {
+            "nombre": "samuel",
+            "cargo": "vendedor"
+        },
+        "medicamentosVendidos": {
+            "nombreMedicamento": "Losartan",
+            "cantidadVendida": 5,
+            "precioUnitario": 55,
+            "total": 275
+        }
+    },
+    {
+        "fechaVenta": "2025-05-10 11:00:38",
+        "paciente": {
+            "nombre": "daniela",
+            "direccion": "belen"
+        },
+        "empleado": {
+            "nombre": "andres",
+            "cargo": "ventas"
+        },
+        "medicamentosVendidos": {
+            "nombreMedicamento": "Aspirina",
+            "cantidadVendida": 5,
+            "precioUnitario": 15,
+            "total": 75
+        }
+    },
+    {
+        "fechaVenta": "2025-05-10 11:07:53",
+        "paciente": {
+            "nombre": "daniiela",
+            "direccion": "velene"
+        },
+        "empleado": {
+            "nombre": "andres",
+            "cargo": "ventas"
+        },
+        "medicamentosVendidos": {
+            "nombreMedicamento": "Aspirina",
+            "cantidadVendida": 5,
+            "precioUnitario": 15,
+            "total": 75
+        }
+    },
+    {
+        "fechaVenta": "2025-05-10 11:13:32",
+        "paciente": {
+            "nombre": "daniela",
+            "direccion": "patios"
+        },
+        "empleado": {
+            "nombre": "andres",
+            "cargo": "ventas"
+        },
+        "medicamentosVendidos": {
+            "nombreMedicamento": "Aspirina",
+            "cantidadVendida": 6,
+            "precioUnitario": 15,
+            "total": 90
+        }
+    },
+    {
+        "fechaVenta": "2025-05-10 11:25:28",
+        "paciente": {
+            "nombre": "daniiela",
+            "direccion": "cundinamarca"
+        },
+        "empleado": {
+            "nombre": "andres",
+            "cargo": "ventas"
+        },
+        "medicamentosVendidos": {
+            "nombreMedicamento": "Aspirina",
+            "cantidadVendida": 5,
+            "precioUnitario": 15,
+            "total": 75
+        }
+    },
+    {
+        "fechaVenta": "2025-05-10 11:34:49",
+        "paciente": {
+            "nombre": "celina",
+            "direccion": "calle5"
+        },
+        "empleado": {
+            "nombre": "andres",
+            "cargo": "ventas"
+        },
+        "medicamentosVendidos": {
+            "nombreMedicamento": "Ibuprofeno",
+            "cantidadVendida": 4,
+            "precioUnitario": 25,
+            "total": 100
+        }
+    },
+    {
+        "fechaVenta": "2025-05-10 11:35:13",
+        "paciente": {
+            "nombre": "celina",
+            "direccion": "calle5"
+        },
+        "empleado": {
+            "nombre": "andres",
+            "cargo": "ventas"
+        },
+        "medicamentosVendidos": {
+            "nombreMedicamento": "Aspirina",
+            "cantidadVendida": 4,
+            "precioUnitario": 15,
+            "total": 60
+        }
     }
 ]

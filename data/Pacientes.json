@@ -23,6 +23,45 @@
         "nombre": "Sofia",
         "direccion": "Calle 112",
         "telefono": "555-7890"
+    },
+    {
+        "nombre": "manuel",
+        "direccion": "calle23",
+        "telefono": "546-756"
+    },
+    {
+        "nombre": "manuel",
+        "direccion": "calle23",
+        "telefono": "123-456"
+    },
+    {
+        "nombre": "manuel",
+        "direccion": "calle23",
+        "telefono": "6535-5643"
+    },
+    {
+        "nombre": "daniela",
+        "direccion": "belen",
+        "telefono": "535-6645"
+    },
+    {
+        "nombre": "daniiela",
+        "direccion": "velene",
+        "telefono": "4343.,42"
+    },
+    {
+        "nombre": "daniela",
+        "direccion": "patios",
+        "telefono": ""
+    },
+    {
+        "nombre": "daniiela",
+        "direccion": "cundinamarca",
+        "telefono": "232-4242"
+    },
+    {
+        "nombre": "celina",
+        "direccion": "calle5",
+        "telefono": "434"
     }
 ]
-
