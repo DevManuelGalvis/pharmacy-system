@@ -1,0 +1,143 @@
+[
+    {
+        "fechaCompra": "2023-01-01T00:00:00Z",
+        "proveedor": {
+            "nombre": "ProveedorA",
+            "contacto": "contacto@proveedora.com"
+        },
+        "medicamentosComprados": [
+            {
+                "nombreMedicamento": "Paracetamol",
+                "cantidadComprada": 50,
+                "precioCompra": 15
+            }
+        ]
+    },
+    {
+        "fechaCompra": "2023-01-10T00:00:00Z",
+        "proveedor": {
+            "nombre": "ProveedorB",
+            "contacto": "contacto@proveedora.com"
+        },
+        "medicamentosComprados": [
+            {
+                "nombreMedicamento": "Ibuprofeno",
+                "cantidadComprada": 25,
+                "precioCompra": 20
+            }
+        ]
+    },
+    {
+        "fechaCompra": "2023-02-01T00:00:00Z",
+        "proveedor": {
+            "nombre": "ProveedorC",
+            "contacto": "contacto@proveedora.com"
+        },
+        "medicamentosComprados": [
+            {
+                "nombreMedicamento": "Aspirina",
+                "cantidadComprada": 10,
+                "precioCompra": 12
+            }
+        ]
+    },
+    {
+        "fechaCompra": "2023-02-15T00:00:00Z",
+        "proveedor": {
+            "nombre": "ProveedorA",
+            "contacto": "contacto@proveedora.com"
+        },
+        "medicamentosComprados": [
+            {
+                "nombreMedicamento": "Amoxicilina",
+                "cantidadComprada": 30,
+                "precioCompra": 35
+            }
+        ]
+    },
+    {
+        "fechaCompra": "2023-03-05T00:00:00Z",
+        "proveedor": {
+            "nombre": "ProveedorB",
+            "contacto": "contacto@proveedora.com"
+        },
+        "medicamentosComprados": [
+            {
+                "nombreMedicamento": "Cetirizina",
+                "cantidadComprada": 50,
+                "precioCompra": 8
+            }
+        ]
+    },
+    {
+        "fechaCompra": "2023-04-01T00:00:00Z",
+        "proveedor": {
+            "nombre": "ProveedorC",
+            "contacto": "contacto@proveedora.com"
+        },
+        "medicamentosComprados": [
+            {
+                "nombreMedicamento": "Losartan",
+                "cantidadComprada": 40,
+                "precioCompra": 50
+            }
+        ]
+    },
+    {
+        "fechaCompra": "2023-04-20T00:00:00Z",
+        "proveedor": {
+            "nombre": "ProveedorA",
+            "contacto": "contacto@proveedora.com"
+        },
+        "medicamentosComprados": [
+            {
+                "nombreMedicamento": "Metformina",
+                "cantidadComprada": 60,
+                "precioCompra": 55
+            }
+        ]
+    },
+    {
+        "fechaCompra": "2023-05-05T00:00:00Z",
+        "proveedor": {
+            "nombre": "ProveedorB",
+            "contacto": "contacto@proveedora.com"
+        },
+        "medicamentosComprados": [
+            {
+                "nombreMedicamento": "Atorvastatina",
+                "cantidadComprada": 70,
+                "precioCompra": 40
+            }
+        ]
+    },
+    {
+        "fechaCompra": "2023-06-10T00:00:00Z",
+        "proveedor": {
+            "nombre": "ProveedorC",
+            "contacto": "contacto@proveedora.com"
+        },
+        "medicamentosComprados": [
+            {
+                "nombreMedicamento": "Clonazepam",
+                "cantidadComprada": 15,
+                "precioCompra": 32
+            }
+        ]
+    },
+    {
+        "fechaCompra": "2023-06-30T00:00:00Z",
+        "proveedor": {
+            "nombre": "ProveedorA",
+            "contacto": "contacto@proveedora.com"
+        },
+        "medicamentosComprados": [
+            {
+                "nombreMedicamento": "Loratadina",
+                "cantidadComprada": 50,
+                "precioCompra": 20
+            }
+        ]
+    }
+]
+

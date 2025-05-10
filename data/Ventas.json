@@ -1,0 +1,203 @@
+[
+    {
+        "fechaVenta": "2023-01-10T00:00:00Z",
+        "paciente": {
+            "nombre": "Juan",
+            "direccion": "Calle 123"
+        },
+        "empleado": {
+            "nombre": "Pedro",
+            "cargo": "Vendedor"
+        },
+        "medicamentosVendidos": [
+            {
+                "nombreMedicamento": "Paracetamol",
+                "cantidadVendida": 2,
+                "precio": 20
+            }
+        ]
+    },
+    {
+        "fechaVenta": "2023-01-15T00:00:00Z",
+        "paciente": {
+            "nombre": "Maria",
+            "direccion": "Calle 123"
+        },
+        "empleado": {
+            "nombre": "Ana",
+            "cargo": "Vendedor"
+        },
+        "medicamentosVendidos": [
+            {
+                "nombreMedicamento": "Ibuprofeno",
+                "cantidadVendida": 1,
+                "precio": 25
+            },
+            {
+                "nombreMedicamento": "Aspirina",
+                "cantidadVendida": 2,
+                "precio": 15
+            }
+        ]
+    },
+    {
+        "fechaVenta": "2023-02-05T00:00:00Z",
+        "paciente": {
+            "nombre": "Luis",
+            "direccion": "Calle 123"
+        },
+        "empleado": {
+            "nombre": "Pedro",
+            "cargo": "Vendedor"
+        },
+        "medicamentosVendidos": [
+            {
+                "nombreMedicamento": "Amoxicilina",
+                "cantidadVendida": 1,
+                "precio": 40
+            }
+        ]
+    },
+    {
+        "fechaVenta": "2023-02-12T00:00:00Z",
+        "paciente": {
+            "nombre": "Elena",
+            "direccion": "Calle 123"
+        },
+        "empleado": {
+            "nombre": "Pedro",
+            "cargo": "Vendedor"
+        },
+        "medicamentosVendidos": [
+            {
+                "nombreMedicamento": "Cetirizina",
+                "cantidadVendida": 1,
+                "precio": 10
+            }
+        ]
+    },
+    {
+        "fechaVenta": "2023-03-10T00:00:00Z",
+        "paciente": {
+            "nombre": "Juan",
+            "direccion": "Calle 123"
+        },
+        "empleado": {
+            "nombre": "Ana",
+            "cargo": "Vendedor"
+        },
+        "medicamentosVendidos": [
+            {
+                "nombreMedicamento": "Losartan",
+                "cantidadVendida": 1,
+                "precio": 55
+            }
+        ]
+    },
+    {
+        "fechaVenta": "2023-04-15T00:00:00Z",
+        "paciente": {
+            "nombre": "Maria",
+            "direccion": "Calle 123"
+        },
+        "empleado": {
+            "nombre": "Ana",
+            "cargo": "Vendedor"
+        },
+        "medicamentosVendidos": [
+            {
+                "nombreMedicamento": "Metformina",
+                "cantidadVendida": 1,
+                "precio": 60
+            }
+        ]
+    },
+    {
+        "fechaVenta": "2023-05-05T00:00:00Z",
+        "paciente": {
+            "nombre": "Sofia",
+            "direccion": "Calle 123"
+        },
+        "empleado": {
+            "nombre": "Pedro",
+            "cargo": "Vendedor"
+        },
+        "medicamentosVendidos": [
+            {
+                "nombreMedicamento": "Atorvastatina",
+                "cantidadVendida": 1,
+                "precio": 45
+            }
+        ]
+    },
+    {
+        "fechaVenta": "2023-05-25T00:00:00Z",
+        "paciente": {
+            "nombre": "Elena",
+            "direccion": "Calle 123"
+        },
+        "empleado": {
+            "nombre": "Pedro",
+            "cargo": "Vendedor"
+        },
+        "medicamentosVendidos": [
+            {
+                "nombreMedicamento": "Clonazepam",
+                "cantidadVendida": 1,
+                "precio": 35
+            }
+        ]
+    },
+    {
+        "fechaVenta": "2023-06-10T00:00:00Z",
+        "paciente": {
+            "nombre": "Juan",
+            "direccion": "Calle 123"
+        },
+        "empleado": {
+            "nombre": "Ana",
+            "cargo": "Vendedor"
+        },
+        "medicamentosVendidos": [
+            {
+                "nombreMedicamento": "Loratadina",
+                "cantidadVendida": 1,
+                "precio": 22
+            }
+        ]
+    },
+    {
+        "fechaVenta": "2023-06-30T00:00:00Z",
+        "paciente": {
+            "nombre": "Sofia",
+            "direccion": "Calle 123"
+        },
+        "empleado": {
+            "nombre": "Ana",
+            "cargo": "Vendedor"
+        },
+        "medicamentosVendidos": [
+            {
+                "nombreMedicamento": "Paracetamol",
+                "cantidadVendida": 2,
+                "precio": 20
+            }
+        ]
+    },
+    {
+        "fechaVenta": "2025-05-10 09:57:57",
+        "paciente": {
+            "nombre": "manuel",
+            "direccion": "calle23"
+        },
+        "empleado": {
+            "nombre": "andres",
+            "cargo": "ventas"
+        },
+        "medicamentosVendidos": {
+            "nombreMedicamento": "Ibuprofeno",
+            "cantidadVendida": 5,
+            "precioUnitario": 25
+        }
+    }
+]

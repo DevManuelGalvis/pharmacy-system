@@ -1,0 +1,102 @@
+[
+    {
+        "nombre": "Paracetamol",
+        "precio": 20,
+        "stock": 150,
+        "fechaExpiracion": "2024-06-15T00:00:00Z",
+        "proveedor": {
+            "nombre": "ProveedorA",
+            "contacto": "contacto@proveedora.com"
+        }
+    },
+    {
+        "nombre": "Ibuprofeno",
+        "precio": 25,
+        "stock": 50,
+        "fechaExpiracion": "2024-12-01T00:00:00Z",
+        "proveedor": {
+            "nombre": "ProveedorB",
+            "contacto": "contacto@proveedora.com"
+        }
+    },
+    {
+        "nombre": "Aspirina",
+        "precio": 15,
+        "stock": 30,
+        "fechaExpiracion": "2024-05-20T00:00:00Z",
+        "proveedor": {
+            "nombre": "ProveedorC",
+            "contacto": "contacto@proveedora.com"
+        }
+    },
+    {
+        "nombre": "Amoxicilina",
+        "precio": 40,
+        "stock": 75,
+        "fechaExpiracion": "2025-08-11T00:00:00Z",
+        "proveedor": {
+            "nombre": "ProveedorA",
+            "contacto": "contacto@proveedora.com"
+        }
+    },
+    {
+        "nombre": "Cetirizina",
+        "precio": 10,
+        "stock": 110,
+        "fechaExpiracion": "2024-01-23T00:00:00Z",
+        "proveedor": {
+            "nombre": "ProveedorB",
+            "contacto": "contacto@proveedora.com"
+        }
+    },
+    {
+        "nombre": "Losartan",
+        "precio": 55,
+        "stock": 95,
+        "fechaExpiracion": "2024-07-30T00:00:00Z",
+        "proveedor": {
+            "nombre": "ProveedorC",
+            "contacto": "contacto@proveedora.com"
+        }
+    },
+    {
+        "nombre": "Metformina",
+        "precio": 60,
+        "stock": 180,
+        "fechaExpiracion": "2024-09-29T00:00:00Z",
+        "proveedor": {
+            "nombre": "ProveedorA",
+            "contacto": "contacto@proveedora.com"
+        }
+    },
+    {
+        "nombre": "Atorvastatina",
+        "precio": 45,
+        "stock": 200,
+        "fechaExpiracion": "2024-10-05T00:00:00Z",
+        "proveedor": {
+            "nombre": "ProveedorB",
+            "contacto": "contacto@proveedora.com"
+        }
+    },
+    {
+        "nombre": "Clonazepam",
+        "precio": 35,
+        "stock": 25,
+        "fechaExpiracion": "2024-04-21T00:00:00Z",
+        "proveedor": {
+            "nombre": "ProveedorC",
+            "contacto": "contacto@proveedora.com"
+        }
+    },
+    {
+        "nombre": "Loratadina",
+        "precio": 22,
+        "stock": 120,
+        "fechaExpiracion": "2025-02-19T00:00:00Z",
+        "proveedor": {
+            "nombre": "ProveedorA",
+            "contacto": "contacto@proveedora.com"
+        }
+    }
+]

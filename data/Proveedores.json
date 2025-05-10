@@ -1,0 +1,18 @@
+[
+    {
+        "nombre": "ProveedorA",
+        "contacto": "contacto@proveedora.com",
+        "direccion": "Calle Proveedor 456"
+    },
+    {
+        "nombre": "ProveedorB",
+        "contacto": "contacto@proveedorb.com",
+        "direccion": "Calle Proveedor 789"
+    },
+    {
+        "nombre": "ProveedorC",
+        "contacto": "contacto@proveedorc.com",
+        "direccion": "Calle Proveedor 123"
+    }
+]
+
