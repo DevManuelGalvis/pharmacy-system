@@ -22,7 +22,7 @@
     {
         "nombre": "Aspirina",
         "precio": 15,
-        "stock": 0,
+        "stock": 100,
         "fechaExpiracion": "2024-05-20T00:00:00Z",
         "proveedor": {
             "nombre": "ProveedorC",

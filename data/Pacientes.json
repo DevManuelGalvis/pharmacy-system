@@ -63,5 +63,10 @@
         "nombre": "celina",
         "direccion": "calle5",
         "telefono": "434"
+    },
+    {
+        "nombre": "manuel",
+        "direccion": "calle101",
+        "telefono": "4343-3"
     }
 ]

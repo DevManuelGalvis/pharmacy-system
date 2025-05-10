@@ -1,32 +1,7 @@
-import os
-import json
 from datetime import datetime
-from services.utils import cargar_json, guardar_json
+from services.utils import cargar_json, guardar_json, obtener_medicamento, obtener_cantidad
 from models.pacientes import registrar_paciente
 
-
-def obtener_medicamento(medicamentos):
-    while True:
-        nombre = input("Ingrese el nombre del medicamento (o 'cancelar' para salir): ").strip().title()
-        if nombre.lower() == "cancelar":
-            return None
-        medicamento = next((m for m in medicamentos if m["nombre"] == nombre), None)
-        if medicamento:
-            return medicamento
-        print(f"❌ El medicamento '{nombre}' no está en el inventario. Intente de nuevo.")
-
-def obtener_cantidad(stock_disponible):
-    while True:
-        try:
-            cantidad = int(input("Ingrese la cantidad del medicamento: "))
-            if cantidad <= 0:
-                print("❌ La cantidad debe ser mayor a cero.")
-            elif cantidad > stock_disponible:
-                print(f"❌ Solo hay {stock_disponible} unidades disponibles.")
-            else:
-                return cantidad
-        except ValueError:
-            print("❌ Ingrese un número válido para la cantidad.")
 
 
 def ventas():
@@ -71,7 +46,7 @@ def ventas():
         print(f"Medicamento: {medicamento_encontrado['nombre']}")
         print(f"Cantidad: {cantidad_medicamento}")
         print(f"Precio unitario: ${precio_unitario}")
-        print(f"Total: ${total}")
+        # print(f"Total: ${total}")
 
         confirmar = input("\n¿Desea confirmar la venta? (s/n): ").strip().lower()
         if confirmar != 's':
@@ -96,8 +71,8 @@ def ventas():
             "medicamentosVendidos": {
                 "nombreMedicamento": medicamento_encontrado["nombre"],
                 "cantidadVendida": cantidad_medicamento,
-                "precioUnitario": precio_unitario,
-                "total": total
+                "precio": precio_unitario,
+                # "total": total
             }
         }
 
@@ -115,7 +90,6 @@ def ventas():
 
         print("✅ Venta registrada correctamente y stock actualizado.")
 
-        # Preguntar si desea continuar comprando otro medicamento
         continuar = input("\n¿Desea vender otro medicamento? (s/n): ").strip().lower()
         if continuar != 's':
             break

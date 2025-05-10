@@ -138,6 +138,35 @@
                 "precioCompra": 20
             }
         ]
+    },
+    {
+        "fechaCompra": "2025-05-10 12:50:26",
+        "proveedor": {
+            "nombre": "proveedorB",
+            "contacto": "contacto@proveedorb.com"
+        },
+        "medicamentosComprados": [
+            {
+                "nombreMedicamento": "Acetaminofen",
+                "cantidadComprada": 50,
+                "precioCompra": 60.0,
+                "fechaExpiracion": "2026-11-20"
+            }
+        ]
+    },
+    {
+        "fechaCompra": "2025-05-10 12:51:48",
+        "proveedor": {
+            "nombre": "proveedorB",
+            "contacto": "contacto@proveedorb.com"
+        },
+        "medicamentosComprados": [
+            {
+                "nombreMedicamento": "Loratadina",
+                "cantidadComprada": 80,
+                "precioCompra": 22.0,
+                "fechaExpiracion": "2025-12-23"
+            }
+        ]
     }
 ]
-
