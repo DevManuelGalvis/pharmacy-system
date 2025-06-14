@@ -183,6 +183,21 @@
                 "precio": 20
             }
         ]
+    },
+    {
+        "fechaVenta": "2025-05-12 22:18:11",
+        "paciente": {
+            "nombre": "manuel",
+            "direccion": "calle101"
+        },
+        "empleado": {
+            "nombre": "bad bunny",
+            "cargo": "ventas"
+        },
+        "medicamentosVendidos": {
+            "nombreMedicamento": "Ibuprofeno",
+            "cantidadVendida": 4,
+            "precio": 25
+        }
     }
 ]
-

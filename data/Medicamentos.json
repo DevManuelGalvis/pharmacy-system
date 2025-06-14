@@ -12,7 +12,7 @@
     {
         "nombre": "Ibuprofeno",
         "precio": 25,
-        "stock": 36,
+        "stock": 32,
         "fechaExpiracion": "2024-12-01T00:00:00Z",
         "proveedor": {
             "nombre": "ProveedorB",

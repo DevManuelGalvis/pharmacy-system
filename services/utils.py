@@ -106,3 +106,4 @@ def obtener_cantidad(stock_disponible):
         except ValueError:
             print("❌ Ingrese un número válido para la cantidad.")
 
+
